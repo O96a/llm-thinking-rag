@@ -63,7 +63,7 @@ An intelligent Retrieval-Augmented Generation (RAG) application that combines Go
 
 1. **Clone the repository**:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/O96a/llm-thinking-rag.git
    cd "Agentic RAG with Gemini Flash Thinking"
    ```
 
@@ -154,7 +154,7 @@ An intelligent Retrieval-Augmented Generation (RAG) application that combines Go
 2. **Upload Documents**: 
    - Upload PDF files using the file uploader
    - Add web URLs for content extraction
-3. **Configure Search**: Adjust similarity threshold and web search options
+3. **Configure Search**: Adjust the similarity threshold and web search options
 4. **Start Chatting**: Ask questions about your uploaded documents
 
 ### Advanced Features
