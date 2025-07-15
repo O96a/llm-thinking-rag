@@ -1,4 +1,4 @@
-# 🤔 Agentic RAG with Gemini Flash Thinking
+# Agentic RAG with Gemini Flash Thinking
 
 An intelligent Retrieval-Augmented Generation (RAG) application that combines Google's Gemini Flash Thinking model with advanced document retrieval and web search capabilities. This application provides a sophisticated chat interface for querying documents and web sources with intelligent query rewriting and multi-modal search strategies.
 
